@@ -1,0 +1,16 @@
+.main{
+    display: flex;
+    gap: 300px;
+    padding: 30px;
+    background-color: white;
+    border-radius: 10px;
+    width: 55%;
+}
+.two{
+   word-spacing: 25px;
+   margin-top: 10px;
+   font-family: 'Poppins', sans-serif;
+}
+body{
+    background-color: aquamarine;
+}
